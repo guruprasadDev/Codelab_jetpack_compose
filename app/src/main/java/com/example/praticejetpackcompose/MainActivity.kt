@@ -3,6 +3,7 @@ package com.example.praticejetpackcompose
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import com.example.praticejetpackcompose.ui.MyApp
 import com.example.praticejetpackcompose.ui.theme.PraticeJetPackComposeTheme
 
 class MainActivity : ComponentActivity() {
@@ -11,6 +12,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             PraticeJetPackComposeTheme {
                 setContent {
+                    MyApp()
                 }
             }
         }
