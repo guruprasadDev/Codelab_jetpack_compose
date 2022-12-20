@@ -1,4 +1,4 @@
-package com.example.praticejetpackcompose.ui
+package com.example.praticejetpackcompose
 
 import android.content.res.Configuration
 import androidx.compose.animation.animateContentSize
@@ -97,9 +97,9 @@ private fun CardContent(name: String) {
             Icon(
                 imageVector = if (expanded) Icons.Filled.ExpandLess else Icons.Filled.ExpandMore,
                 contentDescription = if (expanded) {
-                    stringResource(com.example.praticejetpackcompose.R.string.show_less)
+                    stringResource(R.string.show_less)
                 } else {
-                    stringResource(com.example.praticejetpackcompose.R.string.show_more)
+                    stringResource(R.string.show_more)
                 }
             )
         }
