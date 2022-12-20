@@ -2,4 +2,16 @@
     <string name="app_name">PraticeJetPackCompose</string>
     <string name="show_less">Show less</string>
     <string name="show_more">Show more</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab_inversions">Inversions</string>
+    <string name="fc2_natural_meditations">Natural meditations</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="iphone_1">Iphone Max 8 Pro</string>
+    <string name="iphone_2">Iphone Max 7 Pro</string>
+    <string name="iphone_3">Iphone Max 10 Pro</string>
+    <string name="iphone_4">Iphone Max 11 Pro</string>
+    <string name="iphone_5">Iphone Max 13 Pro</string>
+    <string name="iphone_6">Iphone Max 12 Pro</string>
+    <string name="iphone_7">Iphone Max 13 Pro</string>
+    <string name="iphone_8">Iphone Max 14 Pro</string>
 </resources>
